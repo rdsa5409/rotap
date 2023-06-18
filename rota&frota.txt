@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <title><ROTAS&FROTAS</title>
+    
+</head>
+    <body style="background-color: rgb(184, 167, 167);text-align: center;"
+    <P></P>
+    <p></p>
+
+    <h1>ROTAS:
+    <h2><a href="https://www.google.com/maps/dir/CEPEL+-+Centro+de+Pesquisas+de+Energia+El%C3%A9trica+-+Avenida+Olinda+-+Adrian%C3%B3polis,+Nova+Igua%C3%A7u+-+RJ/Santa+Cruz,+Rio+de+Janeiro+-+RJ,+Brasil/@-22.7863268,-43.5555893,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x99690b25e4e651:0x8631a9e078d3010c!2m2!1d-43.4863189!2d-22.6560616!1m5!1m1!1s0x9bf13063198ad7:0x91668b86a3d6c027!2m2!1d-43.6843877!2d-22.9196515!3e0?entry=ttu">SANTA CRUZ</a></h2>
+    <h2><a href="https://www.google.com/maps/dir/CEPEL+-+Centro+de+Pesquisas+de+Energia+El%C3%A9trica+-+Avenida+Olinda+-+Adrian%C3%B3polis,+Nova+Igua%C3%A7u+-+RJ/Barra+da+Tijuca,+Rio+de+Janeiro+-+RJ/@-22.8267286,-43.3619336,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x99690b25e4e651:0x8631a9e078d3010c!2m2!1d-43.4863189!2d-22.6560616!1m5!1m1!1s0x9bda4a27b6fe5d:0x63c3f6d1d89e0f4e!2m2!1d-43.365895!2d-23.0003709!3e0?entry=ttu">BARRA DA TIJUCA</a></h2>
+    <h2><a href="https://www.google.com/maps/dir/CEPEL+-+Centro+de+Pesquisas+de+Energia+El%C3%A9trica+-+Avenida+Olinda+-+Adrian%C3%B3polis,+Nova+Igua%C3%A7u+-+RJ/Jacarepagu%C3%A1,+Rio+de+Janeiro+-+RJ/@-22.8132662,-43.3619336,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x99690b25e4e651:0x8631a9e078d3010c!2m2!1d-43.4863189!2d-22.6560616!1m5!1m1!1s0x9bd83d20218edf:0x186956215a4948b4!2m2!1d-43.3907025!2d-22.9681736!3e0?entry=ttu"> JACAREPAGUÁ</h2>
+    <h2><a href="https://www.google.com/maps/dir/CEPEL+-+Centro+de+Pesquisas+de+Energia+El%C3%A9trica+-+Avenida+Olinda+-+Adrian%C3%B3polis,+Nova+Igua%C3%A7u+-+RJ/Niter%C3%B3i,+RJ/@-22.7717128,-43.3002016,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x99690b25e4e651:0x8631a9e078d3010c!2m2!1d-43.4863189!2d-22.6560616!1m5!1m1!1s0x9985c034c8b985:0x262ee793dfcc1775!2m2!1d-43.1152211!2d-22.8858975!3e0?entry=ttu">NITERÓI</h2>
+    <h2><a href="https://www.google.com/maps/dir/CEPEL+-+Centro+de+Pesquisas+de+Energia+El%C3%A9trica+-+Avenida+Olinda+-+Adrian%C3%B3polis,+Nova+Igua%C3%A7u+-+RJ/Nova+Igua%C3%A7u,+RJ/@-22.7063851,-43.4568405,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x99690b25e4e651:0x8631a9e078d3010c!2m2!1d-43.4863189!2d-22.6560616!1m5!1m1!1s0x995d694889f955:0x23ff502568217834!2m2!1d-43.449505!2d-22.759464!3e0?entry=ttu">NOVA IGUAÇU</h2>
+  
+
+
+
+
+  
+    </body>
+</html>
